@@ -23,6 +23,15 @@
 # misc
 .DS_Store
 *.pem
+.agents/
+skills-lock.json
+
+
+# local env files
+/local.env
+/local.*.env
+.env.local
+.env
 
 # debug
 npm-debug.log*
